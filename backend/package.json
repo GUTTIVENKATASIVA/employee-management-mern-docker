@@ -1,0 +1,22 @@
+{
+  "name": "employee-management-backend",
+  "version": "1.0.0",
+  "description": "REST API for the Employee Management System (Express + MongoDB)",
+  "private": true,
+  "type": "module",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "test": "node --test",
+    "seed": "node src/seedCli.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.5"
+  }
+}

@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Aarav Sharma",
+    "email": "aarav.sharma@example.com",
+    "phone": "+91 98765 43210",
+    "department": "Engineering",
+    "position": "Senior Software Engineer",
+    "salary": 1850000,
+    "joiningDate": "2020-03-16",
+    "status": "Active"
+  },
+  {
+    "name": "Priya Nair",
+    "email": "priya.nair@example.com",
+    "phone": "+91 98765 43211",
+    "department": "Engineering",
+    "position": "Full Stack Developer",
+    "salary": 1200000,
+    "joiningDate": "2022-07-04",
+    "status": "Active"
+  },
+  {
+    "name": "Rohan Mehta",
+    "email": "rohan.mehta@example.com",
+    "phone": "+91 98765 43212",
+    "department": "Engineering",
+    "position": "DevOps Engineer",
+    "salary": 1500000,
+    "joiningDate": "2021-01-11",
+    "status": "Active"
+  },
+  {
+    "name": "Ananya Reddy",
+    "email": "ananya.reddy@example.com",
+    "phone": "+91 98765 43213",
+    "department": "Human Resources",
+    "position": "HR Manager",
+    "salary": 1400000,
+    "joiningDate": "2019-09-23",
+    "status": "Active"
+  },
+  {
+    "name": "Karthik Iyer",
+    "email": "karthik.iyer@example.com",
+    "phone": "+91 98765 43214",
+    "department": "Human Resources",
+    "position": "Recruitment Executive",
+    "salary": 650000,
+    "joiningDate": "2023-02-13",
+    "status": "On Leave"
+  },
+  {
+    "name": "Sneha Kapoor",
+    "email": "sneha.kapoor@example.com",
+    "phone": "+91 98765 43215",
+    "department": "Finance",
+    "position": "Financial Analyst",
+    "salary": 950000,
+    "joiningDate": "2021-06-28",
+    "status": "Active"
+  },
+  {
+    "name": "Vikram Singh",
+    "email": "vikram.singh@example.com",
+    "phone": "+91 98765 43216",
+    "department": "Finance",
+    "position": "Accounts Lead",
+    "salary": 1300000,
+    "joiningDate": "2018-11-05",
+    "status": "Active"
+  },
+  {
+    "name": "Meera Joshi",
+    "email": "meera.joshi@example.com",
+    "phone": "+91 98765 43217",
+    "department": "Marketing",
+    "position": "Marketing Manager",
+    "salary": 1350000,
+    "joiningDate": "2020-10-19",
+    "status": "Active"
+  },
+  {
+    "name": "Arjun Das",
+    "email": "arjun.das@example.com",
+    "phone": "+91 98765 43218",
+    "department": "Marketing",
+    "position": "Content Strategist",
+    "salary": 720000,
+    "joiningDate": "2023-05-08",
+    "status": "Active"
+  },
+  {
+    "name": "Divya Menon",
+    "email": "divya.menon@example.com",
+    "phone": "+91 98765 43219",
+    "department": "Sales",
+    "position": "Sales Executive",
+    "salary": 680000,
+    "joiningDate": "2022-12-01",
+    "status": "Active"
+  },
+  {
+    "name": "Rahul Verma",
+    "email": "rahul.verma@example.com",
+    "phone": "+91 98765 43220",
+    "department": "Sales",
+    "position": "Regional Sales Head",
+    "salary": 1750000,
+    "joiningDate": "2017-04-17",
+    "status": "Active"
+  },
+  {
+    "name": "Neha Gupta",
+    "email": "neha.gupta@example.com",
+    "phone": "+91 98765 43221",
+    "department": "Operations",
+    "position": "Operations Coordinator",
+    "salary": 800000,
+    "joiningDate": "2021-08-30",
+    "status": "Inactive"
+  },
+  {
+    "name": "Siddharth Rao",
+    "email": "siddharth.rao@example.com",
+    "phone": "+91 98765 43222",
+    "department": "Design",
+    "position": "UI/UX Designer",
+    "salary": 1100000,
+    "joiningDate": "2022-03-21",
+    "status": "Active"
+  },
+  {
+    "name": "Lakshmi Prasad",
+    "email": "lakshmi.prasad@example.com",
+    "phone": "+91 98765 43223",
+    "department": "IT Support",
+    "position": "Systems Administrator",
+    "salary": 900000,
+    "joiningDate": "2020-06-15",
+    "status": "Active"
+  },
+  {
+    "name": "Imran Khan",
+    "email": "imran.khan@example.com",
+    "phone": "+91 98765 43224",
+    "department": "IT Support",
+    "position": "Help Desk Technician",
+    "salary": 520000,
+    "joiningDate": "2024-01-22",
+    "status": "On Leave"
+  }
+]
